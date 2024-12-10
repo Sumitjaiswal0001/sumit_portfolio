@@ -16,8 +16,7 @@ const Works = () => {
       <a href="https://shoes-store-roan.vercel.app/#nav" target='blank'><img src={Portfolio1} alt="" className="workImg" /> </a>
       <a href="https://cloth-store-zeta.vercel.app/" target='blank'><img src={Portfolio2} alt="" className="workImg" /></a>
       <a href="https://blog-three-peach-61.vercel.app/" target="_blank"><img src={Portfolio4} alt="" className="workImg" /></a>
-        
-        <img src={Portfolio3} alt="" className="workImg" />
+       <a href="https://calculater-eight-lime.vercel.app/" target="_blank"><img src={Portfolio3} alt="" className="workImg" /></a>
         <img src={Portfolio5} alt="" className="workImg" />
         <img src={Portfolio6} alt="" className="workImg" />
       </div>
